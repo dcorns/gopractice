@@ -1,0 +1,15 @@
+only loop is a for loop
+var can be defined with x := 7
+if does not require () but does require {}
+
+if x := y {}
+
+make types
+type Vertix struct{
+x int
+y int
+}
+
+default values
+0 empty string and false
+
